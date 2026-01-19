@@ -1,4 +1,4 @@
-package chap02_memory;
+package memory;
 
 import java.lang.management.ManagementFactory;
 import java.util.ArrayList;
