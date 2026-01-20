@@ -50,3 +50,5 @@ hs_err_pid*
 
 # 기타 로그 파일
 *.log
+
+*.class
