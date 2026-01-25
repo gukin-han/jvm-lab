@@ -51,4 +51,13 @@ public class ControlFlowTest {
       default: return 0;
     }
   }
+
+  public int switchSparseV2(int val) {
+    switch (val) {
+      case 1000: return 30;
+      case 1: return 10;
+      case 100: return 20;
+      default: return 0;
+    }
+  }
 }
